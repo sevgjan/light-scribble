@@ -1,0 +1,9 @@
+[tool]
+id = "io.github.sevgjan.scribble"
+label = "Scribble"
+versionCode = 2
+versionName = "0.1.1"
+permissions = []
+capabilities = ["tool-manager-provider"]
+serverPackage = "com.lightos"
+orientation = "portrait"
